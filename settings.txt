@@ -1,0 +1,3 @@
+Target folder: C:\Users\Matej\Desktop\sstcMusic
+Target name: pirate
+Source file: C:\Users\Matej\Downloads\OneTeslaOutput\Pirates_of_the_Carribean.mid
